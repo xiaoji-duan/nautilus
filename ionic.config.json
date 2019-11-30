@@ -1,0 +1,7 @@
+{
+  "name": "nautilus",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
